@@ -1,5 +1,5 @@
 {
-  "name": "sequelize-mysql",
+  "name": "api-sequelize-mysql",
   "version": "1.0.0",
   "main": "server.js",
   "author": "Gabriel Coelho",
