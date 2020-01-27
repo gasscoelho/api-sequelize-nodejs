@@ -24,8 +24,8 @@ This project was developed to present a simple API using Sequelize (ORM) with My
 ### Cloning the repository
 
 ```
-$ git clone https://github.com/gasscoelho/sequelize-nodejs.git
-$ cd sequelize-nodejs
+$ git clone https://github.com/gasscoelho/api-sequelize-nodejs.git
+$ cd api-sequelize-nodejs
 ```
 
 ### Installing the dependencies
