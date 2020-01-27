@@ -1,6 +1,6 @@
-# Sequelize (ORM) - Node.js
+# API with Sequelize (ORM) - Node.js
 
-This project was developed to present an API using Sequelize (ORM) with MySQL.
+This project was developed to present a simple API using Sequelize (ORM) with MySQL.
 
 ## Built With
 
@@ -41,7 +41,7 @@ Or using yarn:
 ```
 yarn install
 ```
-# Notes:
+### Notes:
 
 ## Authors
 
